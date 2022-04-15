@@ -15,3 +15,5 @@ step_start: only required for multiple high-precision rotations
 Example would be.. within terminal and within the directory of where the py file is.
 python motordeg.py 2 50 cw
 This would mean the motor would turn counterwise for 50 degrees at speed 2. (The lower the speed the quicker it will turn.)
+
+
